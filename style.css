@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+    color: brown;
+}
+#chotabheem{
+    background-color: red;
+    color: red;
+    padding: 5px;
+    margin: 5px;
+}
+#motupatlu{
+    background-color:blue;
+    padding: 5px;
+    margin: 5px;
+}
+#tomandjerry{
+    background-color: yellow;
+    padding: 5px;
+    margin: 5px;
+}
